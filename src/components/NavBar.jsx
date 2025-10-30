@@ -8,7 +8,7 @@ function NavBar() {
       <NavLink to="/directors">Directors</NavLink>
       <NavLink to="/actors">Actors</NavLink>
     </nav>
-  );
-}
+    );
+};
 
 export default NavBar;

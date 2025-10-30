@@ -1,4 +1,3 @@
-// routes.js
 import Home from "./pages/Home";
 import Movie from "./pages/Movie";
 import Directors from "./pages/Directors";
